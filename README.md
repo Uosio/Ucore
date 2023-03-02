@@ -10,5 +10,5 @@ After installation, you need find "build" folder and open it in terminal or cmd.
 Type this command:
 
 ```console
-  java -jar FnaF_Java_Edition.jar
+  java -jar Ucore.jar
 ```
