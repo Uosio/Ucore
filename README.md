@@ -12,4 +12,11 @@ Type this command:
 ```console
   java -jar Ucore.jar
 ```
-![screen](https://user-images.githubusercontent.com/125700313/222784552-501306a0-856e-40eb-81d7-23ddf5e81935.png)
+
+Working on Windows:
+
+![screen2](https://user-images.githubusercontent.com/125700313/222787233-b753c60d-0dc8-4848-8d6b-bbe2ff9554e3.jpg)
+
+And Linux:
+
+![screen](https://user-images.githubusercontent.com/125700313/222787257-c8034942-9b55-41f2-9127-59bc3b039e37.png)
