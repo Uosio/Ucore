@@ -29,18 +29,18 @@ class Out extends Objects{
 		if (os == 1) {
 			System.out.println("_____________________________________");
 			System.out.println(RED + "\nUCORE" + RESET);
-			System.out.println("\nversion 1.0 ");
+			System.out.println("\nversion 1.1 ");
 			System.out.println("made by Uosio");
-			System.out.println("01.03.2023");
+			System.out.println("24.11.2023");
 			System.out.println(YELLOW + "\nRecommendation: if you don't know commands, type help." + RESET);
 			System.out.println("_____________________________________");
 		}
 		else if (os == 0){
 		System.out.println("_____________________________________");
 		System.out.println("\nUCORE");
-		System.out.println("\nversion 1.0 ");
+		System.out.println("\nversion 1.1 ");
 		System.out.println("made by Uosio");
-		System.out.println("01.03.2023");
+		System.out.println("24.11.2023");
 		System.out.println("\nRecommendation: if you don't know commands, type help.");
 		System.out.println("_____________________________________");
 		}
